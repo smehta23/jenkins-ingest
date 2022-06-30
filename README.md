@@ -1,6 +1,6 @@
 ## How to add repositories
 
-`./add-repos.main.kts csv-file`
+`./add-repos.sh -i csv-file`
 
 The csv-file argument is expected to be a valid `csv` file, with optional header:
 
